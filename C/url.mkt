@@ -1,0 +1,9 @@
+# mkt template for url package
+title=url
+
+conv.*
+path.*
+url.*
+
+-c, --compile
+  $gcc conv.c path.c url.c -c -lm
