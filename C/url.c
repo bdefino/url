@@ -1,12 +1,12 @@
 /*
 Bailey Defino 2018
-<https://hiten2.github.io>
+<https://bdefino.github.io>
 
 CLARIFICATIONS:
   1. "Authorship Information" regards the following:
     "Hiten," "Hiten2," the year,
     these clarifications, the disclaimer,
-    "<https://hiten2.github.io>," and this license.
+    "<https://bdefino.github.io>," and this license.
   2. "Illegal Activity" is relative to the end user.
 
 DISCLAIMER:
