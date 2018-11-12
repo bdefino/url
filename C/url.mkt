@@ -1,9 +1,6 @@
 # mkt template for url package
+cc=gcc
 title=url
 
-conv.*
-path.*
-url.*
-
--c, --compile
-  $gcc conv.c path.c url.c -c -lm
+b, build:
+  (cc) conv.c path.c url.c -c -lm
